@@ -95,7 +95,7 @@ Postman:
 Microsoft Office:
 - Turn off All AI related Stuff.
 - Don't use OneDrive, use DropBox in custom folders, etc.. old way.
-- Install Excel, PowerPoint, Word, Teams, that's it.
+- Install Excel, PowerPoint, Word, Teams, Access, that's it.
 
 WhatsApp for Windows:
 - Download and Install from Microsoft Store.
