@@ -45,6 +45,9 @@ Style:
 - Always Fonts: Consolas 13 pt / 16 px / 20 Windows 10 Way.
 - Always Cursor: Line Bar |.
 - No AI at all for working.
+- Alt + Tab = Switch Windows.
+- Win + Arrow Keys = Window Positions.
+- Sometimes, file explorer's under titlebar path navigator = to open cmd or other stuff.
 
 Terminal:
 - Color for all BG: #000000, FG: #c0c0c0.
