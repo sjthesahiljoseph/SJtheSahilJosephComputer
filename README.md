@@ -48,6 +48,7 @@ Style:
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
 - Sometimes, file explorer's under titlebar path navigator = to open cmd or other stuff.
+- Learn the workspace. Learn the keymaps. And use as much keymaps as possible. Master them.
 
 Terminal:
 - Color for all BG: #0c0c0c, FG: #cccccc.
@@ -91,9 +92,10 @@ Python:
 Postman:
 - Download and Install Postman Latest.
 
-Microsoft Office 360:
+Microsoft Office:
 - Turn off All AI related Stuff.
 - Don't use OneDrive, use DropBox in custom folders, etc.. old way.
+- Install Excel, PowerPoint, Word, Teams, that's it.
 
 WhatsApp for Windows:
 - Download and Install from Microsoft Store.
