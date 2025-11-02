@@ -50,7 +50,7 @@ Style:
 - Sometimes, file explorer's under titlebar path navigator = to open cmd or other stuff.
 
 Terminal:
-- Color for all BG: #000000, FG: #c0c0c0.
+- Color for all BG: #0c0c0c, FG: #cccccc.
 - Font: Consolas 13 pt / 16 px / 20 Windows 10 Way.
 - Always Cursor: Line Bar |.
 
