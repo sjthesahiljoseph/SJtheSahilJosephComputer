@@ -12,9 +12,9 @@ Operating System:
 - Lock Wallpaper = Windows Clouds Blue Default. Doesn't matter much.
 - Turn Off Notifications on Lock screen.
 - Lock Screen free from widgets.
-- Taskbar should contain pins every everyday use program.
+- Taskbar should be empty, no pins, just opened apps.
 - Desktop should contain almost every possible app shortcut. Align Automatically and use small icons.
-- Taskbar should contain apps pins, search bar, task view button, no widgets, and always combine icons.
+- Taskbar should contain opened apps, search bar, task view button, no widgets, and always combine icons.
 - Start should not show any recommendation, notification, etc.. just apps and only mostly used apps.
 - Start should have only 1 pin item and that it cmd.
 - Alt + Tab should work with applications not with their tabs.
@@ -76,7 +76,6 @@ Visual Studio Community 2022:
 
 NodeJs:
 - Download and Install Nodejs latest.
-- Install Angular CLI.
 - Use Visual Studio Community 2022 for JavaScript / TypeScript.
 
 Python:
