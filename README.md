@@ -42,12 +42,14 @@ Backup:
 
 Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Consolas 13 pt / 16 px.
+- Always Fonts: Consolas 13 pt / 16 px / 20 Windows 10 Way.
 - Always Cursor: Line Bar |.
 - No AI at all for working.
 
 Terminal:
-Color for all BG: #000000, FG: #c0c0c0.
+- Color for all BG: #000000, FG: #c0c0c0.
+- Font: Consolas 13 pt / 16 px / 20 Windows 10 Way.
+- Always Cursor: Line Bar |.
 
 Git for Windows:
 - Setup with GitHub using SSH.
