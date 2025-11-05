@@ -65,8 +65,30 @@ Visual Studio Community 2022:
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
-- Fonts (Editor and Terminal): Consolas 13 pt.
+- Fonts (Editor and Terminal & All): Consolas 13 pt.
 - Install Extension: (VS Block Jumper).
+- Add keymap: Ctrl + Up/Down for Paragraph Jump. Ctrl + Shift + Up/Down = Select Paragraph Jump.
+- Solution Explorer and Git Change = Left Side.
+- Theme = Dark Default.
+- Indent = Use spaces 4 size.
+- Word Wrap Off.
+- Multiple Row Tab Off & Don't do anything with scroll wheel.
+- All formatting = Braces on same line.
+- All formatting = "if (true & true) {". // Like this spacing stuff.
+- Don't automatically close "([{...etc.
+- Disable Auto Backup File stuff.
+- Disable Bracket Pair Colorize.
+- Default Projects folder = /Projects.
+- File Tabs in one line by recent sequence.
+- 
+
+Visual Studio Code:
+- Download and Install Visual Studio Code.
+- Sign In using GitHub Account.
+- Sync.
+- Disable All AI related Features.
+- Fonts (Editor and Terminal & All): Consolas 13 pt.
+- Install Extension: ().
 - Add keymap: Ctrl + Up/Down for Paragraph Jump. Ctrl + Shift + Up/Down = Select Paragraph Jump.
 - Solution Explorer and Git Change = Left Side.
 - Theme = Dark Default.
@@ -90,6 +112,12 @@ Python:
 - Download and Install Python latest.
 - Setup pip etc...
 - Use Visual Studio Community 2022 for Python.
+
+PHP:
+- Download and Install XAMPP, Laravel Herd, Composer, etc...
+
+MySQL & PostgreSQL:
+- Download and Install MySQL & PostgreSQL and Setup them.
 
 Postman:
 - Download and Install Postman Latest.
