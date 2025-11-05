@@ -88,7 +88,7 @@ Visual Studio Code:
 - Sync.
 - Disable All AI related Features.
 - Fonts (Editor and Terminal & All): Consolas 13 pt.
-- Install Extension: ().
+- Install Extension: (Space Block Jumper).
 - Add keymap: Ctrl + Up/Down for Paragraph Jump. Ctrl + Shift + Up/Down = Select Paragraph Jump.
 - Solution Explorer and Git Change = Left Side.
 - Theme = Dark Default.
@@ -104,17 +104,9 @@ Visual Studio Code:
 - File Tabs in one line by recent sequence.
 - 
 
-NodeJs:
-- Download and Install Nodejs latest.
-- Use Visual Studio Community 2022 for JavaScript / TypeScript.
-
-Python:
-- Download and Install Python latest.
-- Setup pip etc...
-- Use Visual Studio Community 2022 for Python.
-
-PHP:
-- Download and Install XAMPP, Laravel Herd, Composer, etc...
+NodeJs & Python:
+- Download and Install Nodejs & Python latest.
+- Use Visual Studio Community 2022 / Visual Studio Code for JavaScript / TypeScript / Python.
 
 MySQL & PostgreSQL:
 - Download and Install MySQL & PostgreSQL and Setup them.
@@ -152,12 +144,8 @@ Unreal Engine:
 - Download and Install Unreal Engine.
 - Use Darkest Theme.
 
-FL Studio:
-- Download and Install FL Studio.
-- Use Darkest Theme.
-
 OBS:
-- Camera 1920 x 1080 bottom/top left/right. (Width = 500px, Height = Ration Calculation) - Taskbar (under).
+- Camera 1920 x 1080 bottom/top left/right. (Width = 500px, Height = Ratio Calculation) - Taskbar (under).
 - Use Darkest Theme.
 
 Git for Windows:
