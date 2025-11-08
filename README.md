@@ -45,7 +45,7 @@ My way of using Computer.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Consolas 13 pt / 16 px / 20 Windows 10 Way.
+- Always Fonts: Consolas 13 pt / 17 px / 20 Windows 10 Way.
 - Always Cursor: Line Bar |.
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
@@ -68,7 +68,7 @@ My way of using Computer.
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
-- Fonts (Editor and Terminal & All): Consolas 13 pt.
+- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Install Extension: (VS Block Jumper).
 - Add keymap: Ctrl + Up/Down for Paragraph Jump. Ctrl + Shift + Up/Down = Select Paragraph Jump.
 - Solution Explorer and Git Change = Left Side.
@@ -90,7 +90,7 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Fonts (Editor and Terminal & All): Consolas 13 pt.
+- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Install Extension: (Space Block Jumper).
 - Add keymap: Ctrl + Up/Down for Paragraph Jump. Ctrl + Shift + Up/Down = Select Paragraph Jump.
 - Solution Explorer and Git Change = Left Side.
