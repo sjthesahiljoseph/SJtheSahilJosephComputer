@@ -1,4 +1,7 @@
-Operating System:
+# SJ the Sahil Joseph Computer
+My way of using Computer.
+
+## Operating System:
 - Windows 10 Pro x64.
 - Dark Mode Everywhere.
 - No Transparency Effect.
@@ -19,13 +22,13 @@ Operating System:
 - Start should have only 1 pin item and that it cmd.
 - Alt + Tab should work with applications not with their tabs.
 
-File Explorer:
+## File Explorer:
 - Windows Default File Explorer.
 - Show hidden items and folders with full extension.
 - In 99.99% cases use list details view.
 - Launch in "This Pc".
 
-Browser:
+## Browser:
 - Download and Install Google Chrome.
 - Make this default for everything.
 - Dark Theme default.
@@ -34,13 +37,13 @@ Browser:
 - Show bookmark bar always.
 - Turn Off Automatically sleep tabs mode, and all.
 
-Backup:
+## Backup:
 - Dropbox, and keep it seperate.
 - Don't automatically backup system stuff.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
 
-Style:
+## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
 - Always Fonts: Consolas 13 pt / 16 px / 20 Windows 10 Way.
 - Always Cursor: Line Bar |.
@@ -51,16 +54,16 @@ Style:
 - Learn the workspace. Learn the keymaps. And use as much keymaps as possible. Master them.
 - Win + Search = Search Application to launch or Use Taskbar or Desktop.
 
-Terminal:
+## Terminal:
 - Color for all BG: #0c0c0c, FG: #cccccc.
 - Font: Consolas 13 pt / 16 px / 20 Windows 10 Way.
 - Always Cursor: Line Bar |.
 
-Git for Windows:
+## Git for Windows:
 - Setup with GitHub using SSH.
 - Also install and setup gh (Github CLI).
 
-Visual Studio Community 2022:
+## Visual Studio Community 2022:
 - Download and Install Visual Studio Community 2022 with (All Components).
 - Sign In using Microsoft Account.
 - Sync.
@@ -71,7 +74,7 @@ Visual Studio Community 2022:
 - Solution Explorer and Git Change = Left Side.
 - Theme = Dark Default.
 - Indent = Use spaces 4 size.
-- Word Wrap Off.
+- Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on same line.
 - All formatting = "if (true & true) {". // Like this spacing stuff.
@@ -82,7 +85,7 @@ Visual Studio Community 2022:
 - File Tabs in one line by recent sequence.
 - 
 
-Visual Studio Code:
+## Visual Studio Code:
 - Download and Install Visual Studio Code.
 - Sign In using GitHub Account.
 - Sync.
@@ -93,7 +96,7 @@ Visual Studio Code:
 - Solution Explorer and Git Change = Left Side.
 - Theme = Dark Default.
 - Indent = Use spaces 4 size.
-- Word Wrap Off.
+- Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on same line.
 - All formatting = "if (true & true) {". // Like this spacing stuff.
@@ -104,65 +107,66 @@ Visual Studio Code:
 - File Tabs in one line by recent sequence.
 - 
 
-NodeJs & Python:
+## NodeJs & Python:
 - Download and Install Nodejs & Python latest.
 - Use Visual Studio Community 2022 / Visual Studio Code for JavaScript / TypeScript / Python.
 
-MySQL & PostgreSQL:
+## MySQL & PostgreSQL:
 - Download and Install MySQL & PostgreSQL and Setup them.
 
-Postman:
-- Download and Install Postman Latest.
+## Microsoft SQL Server Stuff. (all):
+- Download and Install Microsoft SQL Server Stuff. (all).
 
-Microsoft Office:
+## Microsoft Office:
 - Turn off All AI related Stuff.
 - Don't use OneDrive, use DropBox in custom folders, etc.. old way.
 - Install All the stuff.
 
-Microsoft SQL Server Stuff. (all):
-- Download and Install Microsoft SQL Server Stuff. (all).
+## Postman:
+- Download and Install Postman Latest.
 
-WhatsApp for Windows:
-- Download and Install from Microsoft Store.
-- Disable Notifications when app is closed.
-- And only show taskbar dots even when app is opened.
-
-Adobe:
+## Adobe:
 - Download and Install Photoshop Latest. Use Darkest Theme.
 - Download and Install After Effects Latest. Use Darkest Theme.
 - Download and Install Premiere Pro Latest. Use Darkest Theme.
 
-Blender:
+## Blender:
 - Download and Install Blender Latest.
 - Use Darkest Theme.
 
-Unity Engine:
+## Unity Engine:
 - Download and Install Unity Engine.
 - Use Darkest Theme.
 
-Unreal Engine:
+## Unreal Engine:
 - Download and Install Unreal Engine.
 - Use Darkest Theme.
 
-OBS:
+## OBS:
 - Camera 1920 x 1080 bottom/top left/right. (Width = 500px, Height = Ratio Calculation) - Taskbar (under).
 - Use Darkest Theme.
 
-Git for Windows:
+## Git for Windows:
 - Download and Install Git for Windows.
 - Setup using ssh.
 
-7zip:
+## 7zip:
 - Download and Install 7zip.
 
-Apps:
+## Windows Apps:
+- WhatsApp
+    - Download and Install from Microsoft Store.
+    - Disable Notifications when app is closed.
+    - And only show taskbar dots even when app is opened.
+
+## Browser Apps:
 - Mail Client = Gmail from Mobile & Browser.
 - Discord, Instagram, LinkedIn, GitHub = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
 - Personal Notes = Google Keep Notes from Mobile & Browser.
 
-SJ Mobile:
+## SJ Mobile:
 - Always Dark Mode.
 - Wallpaper any good default wallpaper. Doesn't matter.
 - Ringtone ringtone.mp3.
