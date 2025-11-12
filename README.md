@@ -59,6 +59,7 @@ My way of using Computer.
 - Font: Consolas 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Disable tabs, use as many instances as want but seperate.
+- But majority of the cases, use IDE's or Text Editor's terminals.
 
 ## Git for Windows:
 - Setup with GitHub using SSH.
