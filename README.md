@@ -12,7 +12,8 @@ My way of using Computer.
 - No Start Ups apps at all other than default.
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
-- Desktop & Lock Wallpaper = wallpaper.png.
+- Desktop & Lock Wallpaper = wallpaper.png fill.
+- Windows color = Green.
 - Turn Off Notifications on Lock screen.
 - Lock Screen free from widgets and everything.
 - Taskbar should have almost every everyday use application pin.
