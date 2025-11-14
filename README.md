@@ -97,7 +97,7 @@ My way of using Computer.
 - Disable All AI related Features.
 - Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
-- Install Extension: (Space Block Jumper, PHP Intelephense, PHP Debug, Laravel, Symfony for VSCode, Tailwind CSS Intellisense, Angular Language Service, Thunder Client). // By default VS Code has JS/TS/React/Next/HTML/CSS support.
+- Install Extension: (Space Block Jumper, Tailwind CSS Intellisense, Angular Language Service, Thunder Client). // By default VS Code has JS/TS/React/Next/HTML/CSS support.
 - Add keymap: Ctrl + Up/Down for Paragraph Jump. Ctrl + Shift + Up/Down = Select Paragraph Jump.
 - Sidebar = Left Side.
 - Theme = Monokai.
@@ -112,10 +112,9 @@ My way of using Computer.
 - Default Projects folder = /Projects.
 - File Tabs in one line by recent sequence.
 
-## PHP, NodeJs & JavaScript TypeScript:
-- Download and Install PHP & Nodejs latest.
-- Setup XAMPP & Laravel Herd, etc... .
-- Use Visual Studio Code for PHP / JavaScript / TypeScript / NodeJs.
+## NodeJs & JavaScript TypeScript:
+- Download and Install Nodejs latest.
+- Use Visual Studio Code for JavaScript / TypeScript / NodeJs.
 
 ## Microsoft SQL Server Stuff, MySQL & PostgreSQL, (all):
 - Download and Install MySQL, PostgreSQL & Microsoft SQL Server Stuff and Setup them.
