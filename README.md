@@ -41,10 +41,9 @@ My way of using Computer.
 - Don't show search recommendations or suggestions.
 
 ## Backup:
-- Google Drive, and keep it seperate, use From Browser.
+- Download and Install Microsoft OneDrive.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
-- Google Photos for Photos. Everything inside Google. But organize in folders.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
@@ -119,9 +118,8 @@ My way of using Computer.
 ## Microsoft SQL Server Stuff, MySQL & PostgreSQL, (all):
 - Download and Install MySQL, PostgreSQL & Microsoft SQL Server Stuff and Setup them.
 
-## Google Workspace:
-- Setup Google Workspace inside Browser.
-- Use Google Workspace for almost everything.
+## Microsoft Office 360:
+- Download and Install Microsoft Office 360.
 
 ## Adobe:
 - Download and Install Photoshop Latest. Use Darkest Theme.
@@ -154,10 +152,13 @@ My way of using Computer.
     - Disable Notifications when app is closed.
     - And only show taskbar dots even when app is opened.
 
+## Mail Client:
+- Microsoft Outlook
+    - Download and Install Microsoft Outlook.
+    - Use Outlook for Mails with sjthesahiljoseph@gmail.com.
+
 ## Browser Apps:
-- Mail Client = Gmail from Mobile & Browser.
-- Discord, Instagram, LinkedIn, GitHub = From Mobile & Browser.
-- Google Workspace = from Browser.
+- Instagram, LinkedIn, GitHub = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
 - Personal Notes = Google Keep Notes from Mobile & Browser.
