@@ -12,7 +12,7 @@ My way of using Computer.
 - No Start Ups apps at all other than default.
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
-- Desktop & Lock Wallpaper = wallpaper.png fill.
+- Desktop & Lock Screen Wallpaper any good default wallpaper. Doesn't matter.
 - Windows color = Green.
 - Turn Off Notifications on Lock screen.
 - Lock Screen free from widgets and everything.
@@ -29,20 +29,22 @@ My way of using Computer.
 - Launch in "This Pc".
 
 ## Browser:
-- Download and Install Mozila Firefox.
+- Download and Install Google Chrome.
 - Make this default for everything.
 - Dark Theme default.
 - Sign In & Sync.
-- Extensions = ["Vimium", "uBlock"]. That's it.
+- Extensions = "Vimium". That's it.
 - Show bookmark bar always.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar.
 - Rest Defaults.
+- Don't show search recommendations or suggestions.
 
 ## Backup:
-- Microsoft OneDrive, and keep it seperate.
+- Google Drive, and keep it seperate, use From Browser.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
+- Google Photos for Photos. Everything inside Google. But organize in folders.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
@@ -56,7 +58,7 @@ My way of using Computer.
 - Win + Search = Search Application to launch or Use Taskbar.
 
 ## Terminal:
-- Color for all BG: #0c0c0c, FG: #cccccc.
+- Color for all BG: #0c0c0c, FG: #c0c0c0.
 - Font: Consolas 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Disable tabs, use as many instances as want but seperate.
@@ -95,7 +97,7 @@ My way of using Computer.
 - Disable All AI related Features.
 - Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
-- Install Extension: (Space Block Jumper).
+- Install Extension: (Space Block Jumper, PHP Intelephense, PHP Debug, Laravel, Symfony for VSCode, Tailwind CSS Intellisense, Angular Language Service, Thunder Client, React Native Tools). // By default VS Code has JS/TS/React/Next/HTML/CSS support.
 - Add keymap: Ctrl + Up/Down for Paragraph Jump. Ctrl + Shift + Up/Down = Select Paragraph Jump.
 - Sidebar = Left Side.
 - Theme = Monokai.
@@ -110,23 +112,17 @@ My way of using Computer.
 - Default Projects folder = /Projects.
 - File Tabs in one line by recent sequence.
 
-## NodeJs & Python:
-- Download and Install Nodejs & Python latest.
-- Use Visual Studio Community 2022 / Visual Studio Code for JavaScript / TypeScript / Python.
+## PHP, NodeJs & JavaScript TypeScript:
+- Download and Install PHP & Nodejs latest.
+- Setup XAMPP & Laravel Herd, etc... .
+- Use Visual Studio Code for PHP / JavaScript / TypeScript / NodeJs.
 
-## MySQL & PostgreSQL:
-- Download and Install MySQL & PostgreSQL and Setup them.
+## Microsoft SQL Server Stuff, MySQL & PostgreSQL, (all):
+- Download and Install MySQL, PostgreSQL & Microsoft SQL Server Stuff and Setup them.
 
-## Microsoft SQL Server Stuff. (all):
-- Download and Install Microsoft SQL Server Stuff. (all).
-
-## Microsoft Office:
-- Turn off All AI related Stuff.
-- Use OneDrive in custom folders, etc.. old way.
-- Install All the stuff.
-
-## Postman:
-- Download and Install Postman Latest.
+## Google Workspace:
+- Setup Google Workspace inside Browser.
+- Use Google Workspace for almost everything.
 
 ## Adobe:
 - Download and Install Photoshop Latest. Use Darkest Theme.
@@ -162,13 +158,14 @@ My way of using Computer.
 ## Browser Apps:
 - Mail Client = Gmail from Mobile & Browser.
 - Discord, Instagram, LinkedIn, GitHub = From Mobile & Browser.
+- Google Workspace = from Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
 - Personal Notes = Google Keep Notes from Mobile & Browser.
 
 ## SJ Mobile:
 - Always Dark Mode.
-- Wallpaper any good default wallpaper. Doesn't matter.
+- Desktop & Lock Screen Wallpaper any good default wallpaper.
 - Ringtone ringtone.mp3.
 - Notification notification.mp3.
 - Use mobile as less as possible for very limited use case but install and setup almost everything.
