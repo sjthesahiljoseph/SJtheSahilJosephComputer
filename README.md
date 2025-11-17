@@ -87,6 +87,7 @@ My way of using Computer.
 - Disable Bracket Pair Colorize.
 - Default Projects folder = /Projects.
 - File Tabs in one line by recent sequence.
+- Use Debugger as much as possible.
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code.
@@ -110,6 +111,7 @@ My way of using Computer.
 - Disable Bracket Pair Colorize.
 - Default Projects folder = /Projects.
 - File Tabs in one line by recent sequence.
+- Use Debugger as much as possible.
 
 ## Python, NodeJs & JavaScript TypeScript:
 - Download and Install Python & Nodejs latest.
