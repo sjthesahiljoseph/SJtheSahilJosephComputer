@@ -85,7 +85,8 @@ My way of using Computer.
 - Don't automatically close "([{...etc.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
-- Default Projects folder = /Projects.
+- Default Projects folder = D:/.
+- Personal Data etc.. = OneDrive / Offline Available.
 - File Tabs in one line by recent sequence.
 - Use Debugger as much as possible.
 
