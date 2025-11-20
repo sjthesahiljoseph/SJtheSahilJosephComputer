@@ -4,34 +4,38 @@
 My way of using Computer.
 
 ## Operating System:
-- Windows 11 Pro x64.
+- Windows 10 Pro x64.
 - Dark Mode Everywhere.
-- On Transparency Effect.
+- Off Transparency Effect.
 - Update Windows & Apps.
 - Disable AI 100% from everywhere.
 - No Start Ups apps at all other than default.
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
 - Desktop & Lock Screen Wallpaper any good default wallpaper. Doesn't matter.
-- Windows color = Green.
+- Windows color = Default Blue.
 - Turn Off Notifications on Lock screen.
 - Lock Screen free from widgets and everything.
 - Taskbar should have almost every everyday use application pin.
 - Desktop should be empty. No Icons at all.
-- Taskbar should contain apps, search bar, task view button, no widgets, and always combine icons, and left alignment.
+- Taskbar should contain apps, search bar, task view button, widgets, and always combine icons, and left alignment.
 - Start Menu doesn't matter.
 - Alt + Tab should work with applications not with their tabs.
+- Rest Defaults.
 
 ## File Explorer:
 - Windows Default File Explorer.
 - Show hidden items and folders with full extension.
 - In 99.99% cases use list details view.
 - Launch in "This Pc".
+- Don't pin anything except defauts.
 
-## Browser:
-- Download and Install Google Chrome.
+## Microsoft Edge:
+- Download and Install Microsoft Edge.
 - Make this default for everything.
 - Dark Theme default.
+- New Tab Page = Empty.
+- Use Bing Search Engine.
 - Sign In & Sync.
 - Extensions = "Vimium". That's it.
 - Show bookmark bar always.
@@ -57,17 +61,18 @@ My way of using Computer.
 - Win + Search = Search Application to launch or Use Taskbar.
 
 ## Terminal:
+- Default Windows 10 Terminal Cmd or Powershell.
 - Color for all BG: #0c0c0c, FG: #c0c0c0.
 - Font: Consolas 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
-- Disable tabs, use as many instances as want but seperate.
+- Use as many seperate instances as want.
 - But majority of the cases, use IDE's or Text Editor's terminals.
 
 ## Git for Windows:
 - Setup with GitHub using SSH.
 
-## Visual Studio Community 2022:
-- Download and Install Visual Studio Community 2022 with (All Components).
+## Visual Studio Community 2026:
+- Download and Install Visual Studio Community 2026 with (All Components).
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
@@ -114,9 +119,9 @@ My way of using Computer.
 - File Tabs in one line by recent sequence.
 - Use Debugger as much as possible.
 
-## NodeJs & JavaScript TypeScript:
-- Download and Install Nodejs latest.
-- Use Visual Studio Community / Visual Studio Code for JavaScript / TypeScript / NodeJs.
+## Python, NodeJs & JavaScript TypeScript:
+- Download and Install Python, Nodejs latest.
+- Use Visual Studio Community / Visual Studio Code for Python, JavaScript / TypeScript / NodeJs.
 
 ## Microsoft Office 360:
 - Download and Install Microsoft Office 360.
@@ -126,6 +131,7 @@ My way of using Computer.
 - Download and Install After Effects Latest. Use Darkest Theme.
 - Download and Install Premiere Pro Latest. Use Darkest Theme.
 - Download and Install Lightroom Latest. Use Darkest Theme.
+- Download and Install Audition Latest. Use Darkest Theme.
 
 ## Blender:
 - Download and Install Blender Latest.
@@ -153,12 +159,11 @@ My way of using Computer.
     - And only show taskbar dots even when app is opened.
 
 ## Mail Client:
-- Microsoft Outlook
-    - Download and Install Microsoft Outlook.
-    - Use Outlook for Mails with sjthesahiljoseph@gmail.com.
+- GMail Web:
+    - Use GMail Web for Mails with sjthesahiljoseph@gmail.com.
 
 ## Browser Apps:
-- Instagram, LinkedIn, GitHub = From Mobile & Browser.
+- Gmail, Instagram, LinkedIn, GitHub = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
 - Personal Notes = Google Keep Notes from Mobile & Browser.
