@@ -5,7 +5,7 @@ My way of using Computer.
 
 ## Operating System:
 - Windows 10 Pro x64.
-- Dark Mode Everywhere.
+- Light Mode Everywhere.
 - Off Transparency Effect.
 - Update Windows & Apps.
 - Disable AI 100% from everywhere.
@@ -29,19 +29,21 @@ My way of using Computer.
 - In 99.99% cases use list details view.
 - Launch in "This Pc".
 - Don't pin anything except defauts.
+- Don't show recently used or frequently used stuff in sidebar.
 
 ## Microsoft Edge:
 - Download and Install Microsoft Edge.
 - Make this default for everything.
-- Dark Theme default.
+- Light Theme default.
 - New Tab Page = Empty.
 - Use Bing Search Engine.
 - Sign In & Sync.
-- Extensions = "Vimium". That's it.
+- Extensions = "Vimium, uBlock Origin". That's it.
 - Show bookmark bar always.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar.
 - Rest Defaults.
+- Off all AI related stuff in the browser.
 - Don't show search recommendations or suggestions.
 
 ## Backup:
@@ -70,6 +72,7 @@ My way of using Computer.
 
 ## Git for Windows:
 - Setup with GitHub using SSH.
+- Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
 - Download and Install Visual Studio Community 2026 with (All Components).
@@ -169,7 +172,7 @@ My way of using Computer.
 - Personal Notes = Google Keep Notes from Mobile & Browser.
 
 ## SJ Mobile:
-- Always Dark Mode.
+- Always Light Mode.
 - Desktop & Lock Screen Wallpaper any good default wallpaper.
 - Ringtone ringtone.mp3.
 - Notification notification.mp3.
