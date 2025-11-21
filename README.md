@@ -65,7 +65,7 @@ My way of using Computer.
 ## Terminal:
 - Default Windows 10 Terminal Cmd or Powershell.
 - Color for all BG: #0c0c0c, FG: #c0c0c0.
-- Font: Consolas 13 pt / 17 px.
+- Font: Consolas 13 pt / 17 px / 20 Windows 10.
 - Always Cursor: Line Cursor (|).
 - Use as many seperate instances as want.
 - But majority of the cases, use IDE's or Text Editor's terminals.
