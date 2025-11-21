@@ -84,7 +84,7 @@ My way of using Computer.
 - Install Extension: (VS Block Jumper).
 - Add keymap: Ctrl + Up/Down for Paragraph Jump. Ctrl + Shift + Up/Down = Select Paragraph Jump.
 - Solution Explorer and Git Change = Left Side.
-- Theme = Dark Default.
+- Theme = Light Default Modern.
 - Indent = Use spaces and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
@@ -109,7 +109,7 @@ My way of using Computer.
 - Install Extension: (Space Block Jumper). // By default VS Code has JS/TS/React/Next/HTML/CSS support.
 - Add keymap: Ctrl + Up/Down for Paragraph Jump. Ctrl + Shift + Up/Down = Select Paragraph Jump.
 - Sidebar = Left Side.
-- Theme = Monokai.
+- Theme = Light Default Modern.
 - Indent = Use spaces and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
