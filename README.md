@@ -103,7 +103,7 @@ My way of using Computer.
 - Disable All AI related Features.
 - Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
-- Install Extension: (Python, Python Debugger, Python Environments, Pylance, isort, Python Indent, Material Icon Theme, Tailwind CSS IntelliSense). // By default VS Code has JS/TS/React/Next/HTML/CSS support.
+- Install Extension: (None).
 - Sidebar = Left Side.
 - Theme = Light Default Modern.
 - Indent = Use spaces and 4 size.
@@ -118,9 +118,9 @@ My way of using Computer.
 - File Tabs in one line by recent sequence.
 - Use Debugger as much as possible.
 
-## Python, NodeJs & JavaScript TypeScript:
-- Download and Install Python, Nodejs latest.
-- Use Visual Studio Community / Visual Studio Code for Python, JavaScript / TypeScript / NodeJs.
+## NodeJs & JavaScript TypeScript:
+- Download and Install Nodejs latest.
+- Use Visual Studio Community / Visual Studio Code for JavaScript / TypeScript / NodeJs.
 
 ## Microsoft Office 360:
 - Download and Install Microsoft Office 360.
