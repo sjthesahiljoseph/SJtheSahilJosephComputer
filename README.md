@@ -86,8 +86,8 @@ My way of using Computer.
 - Indent = Use spaces and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
-- All formatting = Braces on same line.
-- All formatting = "if (true && true) {". // Like this spacing stuff.
+- All formatting = Braces on next line.
+- PascalCase for almost everything. But for previx add prefix_PascalCase. // For everything.
 - Don't automatically close "([{...etc.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
@@ -109,8 +109,8 @@ My way of using Computer.
 - Indent = Use spaces and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
-- All formatting = Braces on same line.
-- All formatting = "if (true && true) {". // Like this spacing stuff.
+- All formatting = Braces on next line.
+- PascalCase for almost everything. But for previx add prefix_PascalCase. // For everything.
 - Don't automatically close "([{...etc.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
