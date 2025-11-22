@@ -81,8 +81,6 @@ My way of using Computer.
 - Disable All AI related Features.
 - Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
-- Install Extension: (VS Block Jumper).
-- Add keymap: Ctrl + Up/Down for Paragraph Jump. Ctrl + Shift + Up/Down = Select Paragraph Jump.
 - Solution Explorer and Git Change = Left Side.
 - Theme = Light Default Modern.
 - Indent = Use spaces and 4 size.
@@ -94,7 +92,6 @@ My way of using Computer.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
 - Default Projects folder = C:\Users\sjthe\Projects.
-- Personal Data etc.. = OneDrive / Offline Available.
 - File Tabs in one line by recent sequence.
 - Use Debugger as much as possible.
 
@@ -106,8 +103,7 @@ My way of using Computer.
 - Disable All AI related Features.
 - Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
-- Install Extension: (Space Block Jumper). // By default VS Code has JS/TS/React/Next/HTML/CSS support.
-- Add keymap: Ctrl + Up/Down for Paragraph Jump. Ctrl + Shift + Up/Down = Select Paragraph Jump.
+- Install Extension: (Python, Python Debugger, Python Environments, Pylance, isort, Python Indent, Material Icon Theme, Tailwind CSS IntelliSense). // By default VS Code has JS/TS/React/Next/HTML/CSS support.
 - Sidebar = Left Side.
 - Theme = Light Default Modern.
 - Indent = Use spaces and 4 size.
