@@ -5,7 +5,7 @@ My way of using Computer.
 
 ## Operating System:
 - Windows 10 Pro x64.
-- Light Mode Everywhere.
+- Dark Mode Everywhere.
 - Off Transparency Effect.
 - Update Windows & Apps.
 - Disable AI 100% from everywhere.
@@ -34,7 +34,7 @@ My way of using Computer.
 ## Microsoft Edge:
 - Download and Install Microsoft Edge.
 - Make this default for everything.
-- Light Theme default.
+- Dark Theme default.
 - New Tab Page = Empty.
 - Use Bing Search Engine.
 - Sign In & Sync.
@@ -82,45 +82,24 @@ My way of using Computer.
 - Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
-- Theme = Light Default Modern.
+- Theme = Dark Default Modern.
 - Indent = Use spaces and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on next line.
-- PascalCase for almost everything. But for previx add prefix_PascalCase. // For everything.
+- PascalCase, camelCase for almost everything. But for previx add prefix_PascalCase, prefixCase. // For everything.
 - Don't automatically close "([{...etc.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
 - Default Projects folder = C:\Users\sjthe\Projects.
 - File Tabs in one line by recent sequence.
 - Use Debugger as much as possible.
+- Disable Code Half Screen Preview stuff. (sticky scroll).
+- Smooth Scrolling On.
 
-## Visual Studio Code:
-- Download and Install Visual Studio Code.
-- Sign In using GitHub Account.
-- Sync.
-- Disable All AI related Features.
-- Disable All AI related Features.
-- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
-- Install Extension: (None).
-- Sidebar = Left Side.
-- Theme = Light Default Modern.
-- Indent = Use spaces and 4 size.
-- Word Wrap On.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- All formatting = Braces on next line.
-- PascalCase for almost everything. But for previx add prefix_PascalCase. // For everything.
-- Don't automatically close "([{...etc.
-- Disable Auto Backup File stuff.
-- Disable Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\Projects.
-- File Tabs in one line by recent sequence.
-- Use Debugger as much as possible.
-
-## NodeJs & JavaScript TypeScript:
-- Download and Install Nodejs latest.
-- Use Visual Studio Community / Visual Studio Code for JavaScript / TypeScript / NodeJs.
+## Python, NodeJs & JavaScript TypeScript:
+- Download and Install Python, Nodejs latest.
+- Use Visual Studio Community for Python, JavaScript / TypeScript / NodeJs.
 
 ## Microsoft Office 360:
 - Download and Install Microsoft Office 360.
@@ -158,17 +137,20 @@ My way of using Computer.
     - And only show taskbar dots even when app is opened.
 
 ## Mail Client:
-- GMail Web:
-    - Use GMail Web for Mails with sjthesahiljoseph@gmail.com.
+- Microsoft Outlook:
+    - Use Microsoft Outlook for Mails with sjthesahiljoseph@gmail.com.
+
+## Personal Notes:
+- Notion:
+    - Use Notion for Personal Notes. From Mobile and Computer.
 
 ## Browser Apps:
-- Gmail, Instagram, LinkedIn, GitHub = From Mobile & Browser.
+- Instagram, LinkedIn, GitHub = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
-- Personal Notes = Google Keep Notes from Mobile & Browser.
 
 ## SJ Mobile:
-- Always Light Mode.
+- Always Dark Mode.
 - Desktop & Lock Screen Wallpaper any good default wallpaper.
 - Ringtone ringtone.mp3.
 - Notification notification.mp3.
