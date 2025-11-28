@@ -24,12 +24,14 @@ My way of using Computer.
 - Rest Defaults.
 
 ## File Explorer:
-- Windows Default File Explorer.
+- File Pilot Explorer.
+- Make it default.
 - Show hidden items and folders with full extension.
-- In 99.99% cases use list details view.
+- In 99.99% cases use Thumbnail Large view.
 - Launch in "This Pc".
 - Don't pin anything except defauts.
 - Don't show recently used or frequently used stuff in sidebar.
+- Use Inspector (Viewer).
 
 ## Microsoft Edge:
 - Download and Install Microsoft Edge.
@@ -79,6 +81,7 @@ My way of using Computer.
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
+- Extensions = ().
 - Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
@@ -95,11 +98,35 @@ My way of using Computer.
 - File Tabs in one line by recent sequence.
 - Use Debugger as much as possible.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
-- Smooth Scrolling On.
+- Smooth Scrolling Off.
+
+## Visual Studio Code:
+- Download and Install Visual Studio Code with (All Components).
+- Sign In using GitHub Account.
+- Sync.
+- Disable All AI related Features.
+- Extensions = ().
+- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
+- Always Cursor: Line Cursor (|).
+- Solution Explorer etc Sidebar = Left Side.
+- Theme = Dark Default Modern.
+- Indent = Use spaces and 4 size.
+- Word Wrap On.
+- Multiple Row Tab Off & Don't do anything with scroll wheel.
+- All formatting = Braces on next line.
+- PascalCase, camelCase for almost everything. But for previx add prefix_PascalCase, prefixCase. // For everything.
+- Don't automatically close "([{...etc.
+- Disable Auto Backup File stuff.
+- Disable Bracket Pair Colorize.
+- Default Projects folder = C:\Users\sjthe\Projects.
+- File Tabs in one line by recent sequence.
+- Use Debugger as much as possible.
+- Disable Code Half Screen Preview stuff. (sticky scroll).
+- Smooth Scrolling Off.
 
 ## Python, NodeJs & JavaScript TypeScript:
 - Download and Install Python, Nodejs latest.
-- Use Visual Studio Community for Python, JavaScript / TypeScript / NodeJs.
+- Use Visual Studio Code for Python, JavaScript / TypeScript / NodeJs.
 
 ## Microsoft Office 360:
 - Download and Install Microsoft Office 360.
@@ -139,15 +166,13 @@ My way of using Computer.
 ## Mail Client:
 - Microsoft Outlook:
     - Use Microsoft Outlook for Mails with sjthesahiljoseph@gmail.com.
-
-## Personal Notes:
-- Notion:
-    - Use Notion for Personal Notes. From Mobile and Computer.
+    - Disable Notifications.
 
 ## Browser Apps:
 - Instagram, LinkedIn, GitHub = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
+- Google Keep Notes = From Mobile & Browser.
 
 ## SJ Mobile:
 - Always Dark Mode.
