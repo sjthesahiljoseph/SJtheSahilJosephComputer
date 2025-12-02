@@ -24,14 +24,11 @@ My way of using Computer.
 - Rest Defaults.
 
 ## File Explorer:
-- File Pilot Explorer.
-- Make it default.
+- Default Windows File Explorer.
 - Show hidden items and folders with full extension.
-- In 99.99% cases use Thumbnail Large view.
 - Launch in "This Pc".
 - Don't pin anything except defauts.
 - Don't show recently used or frequently used stuff in sidebar.
-- Use Inspector (Viewer).
 
 ## Microsoft Edge:
 - Download and Install Microsoft Edge.
