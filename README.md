@@ -103,7 +103,7 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Material Icon Theme, C/C++ Extension Pack, C/C++, C/C++ Themes, CMake Tools, Makefile Tools, C#, C# Dev Kit, .NET Install Tool, Remote - SSH, Remote - SSH: Editing Configuration, Remote Explorer, Tailwind CSS IntelliSense, Unity).
+- Extensions = (Material Icon Theme, C/C++ Extension Pack, C/C++, C/C++ Themes, CMake Tools, Makefile Tools, C#, C# Dev Kit, .NET Install Tool, Remote - SSH, Remote - SSH: Editing Configuration, Remote Explorer, Tailwind CSS IntelliSense, Unity, Thunder Client).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
