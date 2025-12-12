@@ -4,7 +4,7 @@
 My way of using Computer.
 
 ## Operating System:
-- Windows 10 Pro x64.
+- Windows 11 Pro x64.
 - Dark Mode Everywhere.
 - Off Transparency Effect.
 - Update Windows & Apps.
@@ -17,9 +17,9 @@ My way of using Computer.
 - Turn Off Notifications on Lock screen.
 - Lock Screen free from widgets and everything.
 - Taskbar should have almost every everyday use application pin.
-- Desktop should be empty. No Icons at all.
-- Taskbar should contain apps, search bar, task view button, widgets, and always combine icons, and left alignment.
-- Start Menu doesn't matter.
+- Desktop should be empty. No Icons at all except default in the settings.
+- Taskbar should contain apps, search bar, task view button, widgets, and always combine icons, and center alignment.
+- Start Menu default doesn't matter.
 - Alt + Tab should work with applications not with their tabs.
 - Rest Defaults.
 
@@ -27,7 +27,7 @@ My way of using Computer.
 - Default Windows File Explorer.
 - Show hidden items and folders with full extension.
 - Launch in "This Pc".
-- Don't pin anything except defauts.
+- Don't pin anything except defauts and user folder and projects folder.
 - Don't show recently used or frequently used stuff in sidebar.
 
 ## Microsoft Edge:
@@ -37,7 +37,7 @@ My way of using Computer.
 - New Tab Page = Empty.
 - Use Bing Search Engine.
 - Sign In & Sync.
-- Extensions = "Vimium, uBlock Origin". That's it.
+- Extensions = ("Vimium", "uBlock Origin"). That's it.
 - Show bookmark bar always.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar.
@@ -52,7 +52,7 @@ My way of using Computer.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Consolas 13 pt / 17 px.
+- Always Fonts: Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
@@ -64,9 +64,9 @@ My way of using Computer.
 ## Terminal:
 - Default Windows 10 Terminal Cmd or Powershell.
 - Color for all BG: #0c0c0c, FG: #c0c0c0.
-- Font: Consolas 13 pt / 17 px / 20 Windows 10.
+- Font: Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
-- Use as many seperate instances as want.
+- Use as many tabs want.
 - But majority of the cases, use IDE's or Text Editor's terminals.
 
 ## Git for Windows:
@@ -78,8 +78,8 @@ My way of using Computer.
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = ().
-- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
+- Extensions = (None).
+- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
 - Theme = Dark Default Modern.
@@ -91,19 +91,20 @@ My way of using Computer.
 - Don't automatically close "([{...etc.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\Projects.
+- Default Projects folder = C:\Users\sjthe\projects.
 - File Tabs in one line by recent sequence.
 - Use Debugger as much as possible.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
 - Smooth Scrolling Off.
+- Open Solution Folder in Visual Studio Code as well.
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code with (All Components).
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = ().
-- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
+- Extensions = (Material Icon Theme, C/C++, C/C++ Themes, CMake Tools, Makefile Tools, C#, C# Dev Kit, Python, Python Debugger, Python Environments, Pylance, Remote SSH, ).
+- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
 - Theme = Dark Default Modern.
@@ -115,7 +116,7 @@ My way of using Computer.
 - Don't automatically close "([{...etc.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\Projects.
+- Default Projects folder = C:\Users\sjthe\projects.
 - File Tabs in one line by recent sequence.
 - Use Debugger as much as possible.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
