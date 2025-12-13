@@ -5,7 +5,7 @@ My way of using Computer.
 
 ## Operating System:
 - Windows 11 Pro x64.
-- Dark Mode Everywhere.
+- Light Mode Everywhere.
 - Off Transparency Effect.
 - Update Windows & Apps.
 - Disable AI 100% from everywhere.
@@ -103,7 +103,7 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Material Icon Theme, C/C++ Extension Pack, C/C++, C/C++ Themes, CMake Tools, Makefile Tools, C#, C# Dev Kit, .NET Install Tool, Remote - SSH, Remote - SSH: Editing Configuration, Remote Explorer, Tailwind CSS IntelliSense, Unity, Thunder Client).
+- Extensions = (Space Block Jumper, Material Icon Theme, C/C++ Extension Pack, C/C++, C/C++ Themes, CMake Tools, Makefile Tools, C#, C# Dev Kit, .NET Install Tool, Remote - SSH, Remote - SSH: Editing Configuration, Remote Explorer, Tailwind CSS IntelliSense, Unity, Thunder Client).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
@@ -121,6 +121,7 @@ My way of using Computer.
 - Use Debugger as much as possible.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
 - Smooth Scrolling Off.
+- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
 ## Python, NodeJs & JavaScript TypeScript:
 - Download and Install Python, Nodejs latest.
@@ -173,7 +174,7 @@ My way of using Computer.
 - Google Keep Notes = From Mobile & Browser.
 
 ## SJ Mobile:
-- Always Dark Mode.
+- Always Light Mode.
 - Desktop & Lock Screen Wallpaper any good default wallpaper.
 - Ringtone ringtone.mp3.
 - Notification notification.mp3.
