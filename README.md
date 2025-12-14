@@ -78,17 +78,17 @@ My way of using Computer.
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (None).
+- Extensions = (VS Block Jumper).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
-- Theme = Dark Default Modern.
+- Theme = Light Default Modern.
 - Indent = Use spaces and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on next line.
 - PascalCase, camelCase for almost everything. But for previx add prefix_PascalCase, prefixCase. // For everything.
-- Don't automatically close "([{...etc.
+- Automatically close "([{...etc.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
 - Default Projects folder = C:\Users\sjthe\projects.
@@ -97,6 +97,7 @@ My way of using Computer.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
 - Smooth Scrolling Off.
 - Open Solution Folder in Visual Studio Code as well.
+- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code with (All Components).
@@ -107,13 +108,13 @@ My way of using Computer.
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
-- Theme = Dark Default Modern.
+- Theme = Light Default Modern.
 - Indent = Use spaces and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on next line.
 - PascalCase, camelCase for almost everything. But for previx add prefix_PascalCase, prefixCase. // For everything.
-- Don't automatically close "([{...etc.
+- Automatically close "([{...etc.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
 - Default Projects folder = C:\Users\sjthe\projects.
