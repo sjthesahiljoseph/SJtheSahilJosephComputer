@@ -132,27 +132,27 @@ My way of using Computer.
 - Download and Install Microsoft Office 360.
 
 ## Adobe:
-- Download and Install Photoshop Latest. Use Darkest Theme.
-- Download and Install After Effects Latest. Use Darkest Theme.
-- Download and Install Premiere Pro Latest. Use Darkest Theme.
-- Download and Install Lightroom Latest. Use Darkest Theme.
-- Download and Install Audition Latest. Use Darkest Theme.
+- Download and Install Photoshop Latest. Use Light Theme.
+- Download and Install After Effects Latest. Use Light Theme.
+- Download and Install Premiere Pro Latest. Use Light Theme.
+- Download and Install Lightroom Latest. Use Light Theme.
+- Download and Install Audition Latest. Use Light Theme.
 
 ## Blender:
 - Download and Install Blender Latest.
-- Use Darkest Theme.
+- Use Light Theme.
 
 ## Unity Engine:
 - Download and Install Unity Engine.
-- Use Darkest Theme.
+- Use Light Theme.
 
 ## Unreal Engine:
 - Download and Install Unreal Engine.
-- Use Darkest Theme.
+- Use Light Theme.
 
 ## OBS:
 - Camera 1920 x 1080 bottom/top left/right/top/bottom. (Width = 500px, Height = Ratio Calculation) - Taskbar (under).
-- Use Darkest Theme.
+- Use Light Theme.
 
 ## 7zip:
 - Download and Install 7zip.
