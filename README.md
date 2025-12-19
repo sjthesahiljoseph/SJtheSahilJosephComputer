@@ -22,6 +22,7 @@ My way of using Computer.
 - Start Menu default doesn't matter.
 - Alt + Tab should work with applications not with their tabs.
 - Rest Defaults.
+- UnInstall Microsoft OneDrive.
 
 ## File Explorer:
 - Default Windows File Explorer.
@@ -30,25 +31,26 @@ My way of using Computer.
 - Don't pin anything except defauts and user folder and projects folder.
 - Don't show recently used or frequently used stuff in sidebar.
 
-## Microsoft Edge:
-- Download and Install Microsoft Edge.
+## Google Chrome:
+- Download and Install Google Chrome.
 - Make this default for everything.
-- Dark Theme default.
+- Light Theme default.
 - New Tab Page = Empty.
-- Use Bing Search Engine.
 - Sign In & Sync.
-- Extensions = ("Vimium", "uBlock Origin"). That's it.
+- Extensions = ("Vimium"). That's it.
 - Show bookmark bar always.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar.
 - Rest Defaults.
 - Off all AI related stuff in the browser.
-- Don't show search recommendations or suggestions.
+- Show search recommendations or suggestions.
 
 ## Backup:
-- Download and Install Microsoft OneDrive.
+- Use Google Drive from Browser. And Download / Upload Files as needed.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
+- In Google Photos, categorize.
+- All Google Workspace.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
@@ -128,8 +130,8 @@ My way of using Computer.
 - Download and Install Python, Nodejs latest.
 - Use Visual Studio Code for Python, JavaScript / TypeScript / NodeJs.
 
-## Microsoft Office 360:
-- Download and Install Microsoft Office 360.
+## Google Workspace:
+- Use Google Workspace from Browser.
 
 ## Adobe:
 - Download and Install Photoshop Latest. Use Light Theme.
@@ -164,15 +166,15 @@ My way of using Computer.
     - And only show taskbar dots even when app is opened.
 
 ## Mail Client:
-- Microsoft Outlook:
-    - Use Microsoft Outlook for Mails with sjthesahiljoseph@gmail.com.
-    - Disable Notifications.
+- GMail:
+    - Use Google Workspace GMail for Mails with sjthesahiljoseph@gmail.com from Browser.
 
 ## Browser Apps:
 - Instagram, LinkedIn, GitHub = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
 - Google Keep Notes = From Mobile & Browser.
+- Google Workspace = From  Mobile & Browser.
 
 ## SJ Mobile:
 - Always Light Mode.
