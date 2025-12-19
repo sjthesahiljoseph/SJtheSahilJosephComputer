@@ -176,6 +176,10 @@ My way of using Computer.
 - Google Keep Notes = From Mobile & Browser.
 - Google Workspace = From  Mobile & Browser.
 
+## Music:
+- YouTube, YouTube Music, Local Download.
+- That's it.
+
 ## SJ Mobile:
 - Always Light Mode.
 - Desktop & Lock Screen Wallpaper any good default wallpaper.
