@@ -5,7 +5,7 @@ My way of using Computer.
 
 ## Operating System:
 - Windows 11 Pro x64.
-- Light Mode Everywhere.
+- Dark Mode Everywhere.
 - Off Transparency Effect.
 - Update Windows & Apps.
 - Disable AI 100% from everywhere.
@@ -34,7 +34,7 @@ My way of using Computer.
 ## Google Chrome:
 - Download and Install Google Chrome.
 - Make this default for everything.
-- Light Theme default.
+- System Dark Theme default.
 - New Tab Page = Empty.
 - Sign In & Sync.
 - Extensions = ("Vimium"). That's it.
@@ -76,7 +76,7 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All Components).
+- Download and Install Visual Studio Community 2026 with (All C/C++ Components).
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
@@ -84,7 +84,7 @@ My way of using Computer.
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
-- Theme = Light Default Modern.
+- Theme = Dark Default Modern.
 - Indent = Use spaces and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
@@ -106,11 +106,11 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper, Material Icon Theme, C/C++ Extension Pack, C/C++, C/C++ Themes, CMake Tools, Makefile Tools, C#, C# Dev Kit, .NET Install Tool, Remote - SSH, Remote - SSH: Editing Configuration, Remote Explorer, Tailwind CSS IntelliSense, Unity, Thunder Client).
+- Extensions = (Space Block Jumper, Material Icon Theme, C/C++ Extension Pack, C/C++, C/C++ Themes, CMake Tools, Makefile Tools, Remote - SSH, Remote - SSH: Editing Configuration, Remote Explorer, Tailwind CSS IntelliSense, Thunder Client).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
-- Theme = Light Default Modern.
+- Theme = Dark Default Modern.
 - Indent = Use spaces and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
@@ -128,33 +128,29 @@ My way of using Computer.
 
 ## Python, NodeJs & JavaScript TypeScript:
 - Download and Install Python, Nodejs latest.
-- Use Visual Studio Code for Python, JavaScript / TypeScript / NodeJs.
+- Use Visual Studio Code for JavaScript / TypeScript / NodeJs.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
 
 ## Adobe:
-- Download and Install Photoshop Latest. Use Light Theme.
-- Download and Install After Effects Latest. Use Light Theme.
-- Download and Install Premiere Pro Latest. Use Light Theme.
-- Download and Install Lightroom Latest. Use Light Theme.
-- Download and Install Audition Latest. Use Light Theme.
+- Download and Install Photoshop Latest. Use Darkest Theme.
+- Download and Install After Effects Latest. Use Darkest Theme.
+- Download and Install Premiere Pro Latest. Use Darkest Theme.
+- Download and Install Lightroom Latest. Use Darkest Theme.
+- Download and Install Audition Latest. Use Darkest Theme.
 
 ## Blender:
 - Download and Install Blender Latest.
-- Use Light Theme.
-
-## Unity Engine:
-- Download and Install Unity Engine.
-- Use Light Theme.
+- Use Darkest Theme.
 
 ## Unreal Engine:
 - Download and Install Unreal Engine.
-- Use Light Theme.
+- Use Darkest Theme.
 
 ## OBS:
 - Camera 1920 x 1080 bottom/top left/right/top/bottom. (Width = 500px, Height = Ratio Calculation) - Taskbar (under).
-- Use Light Theme.
+- Use Darkest Theme.
 
 ## 7zip:
 - Download and Install 7zip.
@@ -181,7 +177,7 @@ My way of using Computer.
 - That's it.
 
 ## SJ Mobile:
-- Always Light Mode.
+- Always Dark Mode.
 - Desktop & Lock Screen Wallpaper any good default wallpaper.
 - Ringtone ringtone.mp3.
 - Notification notification.mp3.
