@@ -106,7 +106,7 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper, Material Icon Theme, C/C++ Extension Pack, C/C++, C/C++ Themes, CMake Tools, Makefile Tools, Remote - SSH, Remote - SSH: Editing Configuration, Remote Explorer, Tailwind CSS IntelliSense, Thunder Client).
+- Extensions = (Space Block Jumper, Material Icon Theme, C/C++ Extension Pack, C/C++, C/C++ Themes, CMake Tools, Makefile Tools, Remote - SSH, Remote - SSH: Editing Configuration, Remote Explorer, Tailwind CSS IntelliSense, Thunder Client, Extension Pack for Java, Debugger for Java, Gradle for Java, Java, Language Support for Java(TM), Maven for Java, Project Manager for Java, Spring Boot Dashboard, Spring Boot Tools, Spring Initializr Java Support, Test Runner for Java, XML, YAML).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
@@ -126,9 +126,9 @@ My way of using Computer.
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
-## Python, NodeJs & JavaScript TypeScript:
-- Download and Install Python, Nodejs latest.
-- Use Visual Studio Code for JavaScript / TypeScript / NodeJs.
+## Java:
+- Download and Install Java latest.
+- Use Visual Studio Code for Java Development.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
