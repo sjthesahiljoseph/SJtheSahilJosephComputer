@@ -6,6 +6,7 @@ My way of using Computer.
 ## Operating System:
 - Windows 11 Pro x64.
 - Dark Mode Everywhere.
+- Glow Theme. Dark.
 - Off Transparency Effect.
 - Update Windows & Apps.
 - Disable AI 100% from everywhere.
