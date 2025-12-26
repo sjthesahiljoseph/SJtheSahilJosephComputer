@@ -106,7 +106,32 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper, Material Icon Theme, C/C++ Extension Pack, C/C++, C/C++ Themes, CMake Tools, Makefile Tools, Remote - SSH, Remote - SSH: Editing Configuration, Remote Explorer, Tailwind CSS IntelliSense, Thunder Client, Extension Pack for Java, Debugger for Java, Gradle for Java, Java, Language Support for Java(TM), Maven for Java, Project Manager for Java, Spring Boot Dashboard, Spring Boot Tools, Spring Initializr Java Support, Test Runner for Java, XML, YAML).
+- Extensions = (Space Block Jumper, Material Icon Theme).
+- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Always Cursor: Line Cursor (|).
+- Solution Explorer etc Sidebar = Left Side.
+- Theme = Dark Default Modern.
+- Indent = Use spaces and 4 size.
+- Word Wrap On.
+- Multiple Row Tab Off & Don't do anything with scroll wheel.
+- All formatting = Braces on next line.
+- PascalCase, camelCase for almost everything. But for previx add prefix_PascalCase, prefixCase. // For everything.
+- Automatically close "([{...etc.
+- Disable Auto Backup File stuff.
+- Disable Bracket Pair Colorize.
+- Default Projects folder = C:\Users\sjthe\projects.
+- File Tabs in one line by recent sequence.
+- Use Debugger as much as possible.
+- Disable Code Half Screen Preview stuff. (sticky scroll).
+- Smooth Scrolling Off.
+- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
+
+## IntelliJ Idea:
+- Download and Install IntelliJ Idea with (All Components).
+- Sign In using Jetbrains Account.
+- Sync.
+- Disable All AI related Features.
+- Extensions = ().
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
@@ -128,7 +153,7 @@ My way of using Computer.
 
 ## Java:
 - Download and Install Java latest.
-- Use Visual Studio Code for Java Development.
+- Use IntelliJ Idea for Java Development.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
