@@ -86,7 +86,7 @@ My way of using Computer.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
 - Theme = Dark Default Modern.
-- Indent = Use spaces and 4 size.
+- Indent = Use tabs and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on next line.
@@ -112,7 +112,7 @@ My way of using Computer.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
 - Theme = Dark Default Modern.
-- Indent = Use spaces and 4 size.
+- Indent = Use tabs and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on next line.
@@ -137,7 +137,7 @@ My way of using Computer.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
 - Theme = Dark Default Modern.
-- Indent = Use spaces and 4 size.
+- Indent = Use tabs and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on next line.
