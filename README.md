@@ -6,7 +6,7 @@ My way of using Computer.
 ## Operating System:
 - Windows 11 Pro x64.
 - Dark Mode Everywhere.
-- Glow Theme. Dark.
+- Blue Dark Theme. Dark.
 - Off Transparency Effect.
 - Update Windows & Apps.
 - Disable AI 100% from everywhere.
@@ -107,7 +107,7 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper, Material Icon Theme).
+- Extensions = (Space Block Jumper, Material Icon Theme, ).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
@@ -127,34 +127,9 @@ My way of using Computer.
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
-## IntelliJ Idea:
-- Download and Install IntelliJ Idea with (All Components).
-- Sign In using Jetbrains Account.
-- Sync.
-- Disable All AI related Features.
-- Extensions = ().
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
-- Solution Explorer etc Sidebar = Left Side.
-- Theme = Dark Default Modern.
-- Indent = Use tabs and 4 size.
-- Word Wrap On.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. But for previx add prefix_PascalCase, prefixCase. // For everything.
-- Automatically close "([{...etc.
-- Disable Auto Backup File stuff.
-- Disable Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\projects.
-- File Tabs in one line by recent sequence.
-- Use Debugger as much as possible.
-- Disable Code Half Screen Preview stuff. (sticky scroll).
-- Smooth Scrolling Off.
-- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-
-## Java:
-- Download and Install Java latest.
-- Use IntelliJ Idea for Java Development.
+## Python:
+- Download and Install Python latest.
+- Use Visual Studio Code for Python Development.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
@@ -192,7 +167,7 @@ My way of using Computer.
     - Use Google Workspace GMail for Mails with sjthesahiljoseph@gmail.com from Browser.
 
 ## Browser Apps:
-- Instagram, LinkedIn, GitHub = From Mobile & Browser.
+- Instagram, LinkedIn, GitHub, Reddit, Discord, X(Twitter) = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
 - Google Keep Notes = From Mobile & Browser.
