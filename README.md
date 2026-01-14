@@ -107,7 +107,7 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper, Material Icon Theme, ).
+- Extensions = (Space Block Jumper, Material Icon Theme, Tailwind CSS IntelliSense).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
@@ -127,9 +127,9 @@ My way of using Computer.
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
-## Python:
-- Download and Install Python latest.
-- Use Visual Studio Code for Python Development.
+## NodeJs & Bun:
+- Download and Install NodeJs & Bun latest.
+- Use Visual Studio Code for JavaScript & TypeScript Development.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
