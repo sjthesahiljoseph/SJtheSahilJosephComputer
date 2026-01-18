@@ -5,15 +5,15 @@ My way of using Computer.
 
 ## Operating System:
 - Windows 11 Pro x64.
-- Dark Mode Everywhere.
-- Blue Dark Theme. Dark.
+- Light Mode Everywhere.
+- Blue Light Theme. Light.
 - Off Transparency Effect.
 - Update Windows & Apps.
 - Disable AI 100% from everywhere.
 - No Start Ups apps at all other than default.
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
-- Desktop & Lock Screen Wallpaper any good default wallpaper. Doesn't matter.
+- Desktop & Lock Screen Wallpaper = wallpaper.png/jpg.
 - Windows color = Default Blue.
 - Turn Off Notifications on Lock screen.
 - Lock Screen free from widgets and everything.
@@ -35,7 +35,7 @@ My way of using Computer.
 ## Google Chrome:
 - Download and Install Google Chrome.
 - Make this default for everything.
-- System Dark Theme default.
+- System Light Theme default.
 - New Tab Page = Empty.
 - Sign In & Sync.
 - Extensions = ("Vimium"). That's it.
@@ -178,8 +178,8 @@ My way of using Computer.
 - That's it.
 
 ## SJ Mobile:
-- Always Dark Mode.
-- Desktop & Lock Screen Wallpaper any good default wallpaper.
+- Always Light Mode.
+- Desktop & Lock Screen Wallpaper = wallpaper.png/jpg.
 - Ringtone ringtone.mp3.
 - Notification notification.mp3.
 - Use mobile as less as possible for very limited use case but install and setup almost everything.
