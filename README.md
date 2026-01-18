@@ -24,6 +24,7 @@ My way of using Computer.
 - Alt + Tab should work with applications not with their tabs.
 - Rest Defaults.
 - UnInstall Microsoft OneDrive.
+- Other system tray icons = Enable all. No Dropdown stuff.
 
 ## File Explorer:
 - Default Windows File Explorer.
