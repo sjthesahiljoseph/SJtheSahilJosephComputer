@@ -108,7 +108,7 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper).
+- Extensions = (Space Block Jumper, vscode-icons, Tailwind CSS IntelliSense, PHP Intelephense, PHP Debug, Laravel, Laravel Extra Intellisense, ).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
