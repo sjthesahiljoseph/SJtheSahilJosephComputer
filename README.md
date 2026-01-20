@@ -91,7 +91,7 @@ My way of using Computer.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. But for previx add prefix_PascalCase, prefixCase. // For everything.
+- PascalCase, camelCase for almost everything. For everything.
 - Automatically close "([{...etc.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
@@ -103,12 +103,12 @@ My way of using Computer.
 - Open Solution Folder in Visual Studio Code as well.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
-## Visual Studio Code:
-- Download and Install Visual Studio Code with (All Components).
+## PHP Storm:
+- Download and Install PHP Storm with (All Components).
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper, Material Icon Theme, Tailwind CSS IntelliSense).
+- Extensions = ().
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
@@ -117,7 +117,7 @@ My way of using Computer.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. But for previx add prefix_PascalCase, prefixCase. // For everything.
+- PascalCase, camelCase for almost everything. For everything.
 - Automatically close "([{...etc.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
@@ -128,9 +128,9 @@ My way of using Computer.
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
-## NodeJs & Bun:
-- Download and Install NodeJs & Bun latest.
-- Use Visual Studio Code for JavaScript & TypeScript Development.
+## PHP & NodeJs:
+- Download and Install Herd & NodeJs latest.
+- Use PHP Storm for PHP Development.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
