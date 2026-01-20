@@ -13,7 +13,7 @@ My way of using Computer.
 - No Start Ups apps at all other than default.
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
-- Desktop & Lock Screen Wallpaper = wallpaper.png/jpg.
+- Desktop & Lock Screen Wallpaper = Default Blue Light.
 - Windows color = Default Blue.
 - Turn Off Notifications on Lock screen.
 - Lock Screen free from widgets and everything.
@@ -180,7 +180,7 @@ My way of using Computer.
 
 ## SJ Mobile:
 - Always Light Mode.
-- Desktop & Lock Screen Wallpaper = wallpaper.png/jpg.
+- Desktop & Lock Screen Wallpaper = Anything, doesn't matter.
 - Ringtone ringtone.mp3.
 - Notification notification.mp3.
 - Use mobile as less as possible for very limited use case but install and setup almost everything.
