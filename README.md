@@ -103,12 +103,12 @@ My way of using Computer.
 - Open Solution Folder in Visual Studio Code as well.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
-## PHP Storm:
-- Download and Install PHP Storm with (All Components).
+## VS Code:
+- Download and Install VS Code with (All Components).
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = ().
+- Extensions = (Space Block Jumper).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
@@ -130,7 +130,7 @@ My way of using Computer.
 
 ## PHP & NodeJs:
 - Download and Install Herd & NodeJs latest.
-- Use PHP Storm for PHP Development.
+- Use VS Code for PHP Development.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
