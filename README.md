@@ -5,7 +5,7 @@ My way of using Computer.
 
 ## Operating System:
 - Windows 11 Pro x64.
-- Light Mode Everywhere.
+- Dark Mode Everywhere.
 - Blue Light Theme. Light.
 - Off Transparency Effect.
 - Update Windows & Apps.
@@ -179,7 +179,7 @@ My way of using Computer.
 - That's it.
 
 ## SJ Mobile:
-- Always Light Mode.
+- Always Dark Mode.
 - Desktop & Lock Screen Wallpaper = wallpaper.png/jpg.
 - Ringtone ringtone.mp3.
 - Notification notification.mp3.
