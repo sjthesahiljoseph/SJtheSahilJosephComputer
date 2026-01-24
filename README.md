@@ -112,7 +112,7 @@ My way of using Computer.
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
-- Theme = Dark Default Modern.
+- Theme = Monokai.
 - Indent = Use tabs and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
