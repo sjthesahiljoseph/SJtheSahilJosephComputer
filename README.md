@@ -13,7 +13,7 @@ My way of using Computer.
 - No Start Ups apps at all other than default.
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
-- Desktop & Lock Screen Wallpaper = wallpaper.png/jpg.
+- Desktop & Lock Screen Wallpaper = Default Blue Light.
 - Windows color = Default Blue.
 - Turn Off Notifications on Lock screen.
 - Lock Screen free from widgets and everything.
@@ -103,12 +103,12 @@ My way of using Computer.
 - Open Solution Folder in Visual Studio Code as well.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
-## PHP Storm:
-- Download and Install PHP Storm with (All Components).
+## VS Code:
+- Download and Install VS Code with (All Components).
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = ().
+- Extensions = (Space Block Jumper, vscode-icons, Tailwind CSS IntelliSense, PHP Intelephense, PHP Debug, Laravel, Laravel Extra Intellisense).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
@@ -128,9 +128,9 @@ My way of using Computer.
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
-## PHP & NodeJs:
-- Download and Install Herd & NodeJs latest.
-- Use PHP Storm for PHP Development.
+## PHP, Herd, NodeJs:
+- Download and Install PHP, Herd, NodeJs latest.
+- Use VS Code for PHP Development.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
