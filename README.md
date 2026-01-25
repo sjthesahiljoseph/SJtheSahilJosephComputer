@@ -108,7 +108,7 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper, vscode-icons, Tailwind CSS IntelliSense).
+- Extensions = (Space Block Jumper, , vscode-icons, Tailwind CSS IntelliSense, Java, Language Support for Java(TM) by Red Hat, Debugger for Java, Test Runner for Java, Maven for Java, Gradle for Java, Project Manager for Java, Spring Initializr Java Support, Spring Boot Dashboard, Spring Boot Tools).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
