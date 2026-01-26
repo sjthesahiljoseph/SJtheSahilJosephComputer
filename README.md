@@ -19,7 +19,7 @@ My way of using Computer.
 - Lock Screen free from widgets and everything.
 - Taskbar should have almost every everyday use application pin.
 - Desktop should be empty. No Icons at all except default in the settings.
-- Taskbar should contain apps, search bar, task view button, widgets, and always combine icons, and center alignment.
+- Taskbar should contain apps, search bar, task view button, widgets, and always combine icons, and left alignment.
 - Start Menu default doesn't matter.
 - Alt + Tab should work with applications not with their tabs.
 - Rest Defaults.
@@ -128,11 +128,43 @@ My way of using Computer.
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
+## IntelliJIdea:
+- Download and Install IntelliJIdea Free.
+- Sign In using Jetbrains Account.
+- Sync.
+- Disable All AI related Features.
+- Extensions = ().
+- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Always Cursor: Line Cursor (|).
+- Solution Explorer etc Sidebar = Left Side.
+- Theme = Dark Island Default.
+- Indent = Use tabs and 4 size.
+- Word Wrap On.
+- Multiple Row Tab Off & Don't do anything with scroll wheel.
+- All formatting = Braces on next line.
+- PascalCase, camelCase for almost everything. For everything.
+- Automatically close "([{...etc.
+- Disable Auto Backup File stuff.
+- Disable Bracket Pair Colorize.
+- Default Projects folder = C:\Users\sjthe\projects.
+- File Tabs in one line by recent sequence.
+- Use Debugger as much as possible.
+- Disable Code Half Screen Preview stuff. (sticky scroll).
+- Smooth Scrolling Off.
+- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
+
 ## C/C++:
 - Use Visual Studio IDE for C/C++ Development.
 
-## Java / JavaScript TypeScript / General Text Editing:
-- Use VS Code for Java JavaScript TypeScript / General Text Editing.
+## JavaScript TypeScript / General Text Editing:
+- Use VS Code for JavaScript TypeScript / General Text Editing.
+
+## Java:
+- Use IntelliJIdea for Java.
+
+## Postman:
+- Download and Install Postman Free.
+- Use Darkest Mode.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
