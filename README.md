@@ -78,7 +78,7 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++ Components).
+- Download and Install Visual Studio Community 2026 with (All C/C++/C#/TS/JS/Etc Components).
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
@@ -108,7 +108,7 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper, vscode-icons, Tailwind CSS IntelliSense, PHP Intelephense, PHP Debug, Laravel).
+- Extensions = (Space Block Jumper).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
@@ -128,9 +128,8 @@ My way of using Computer.
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
-## PHP & General Text Editing:
-- Install & Setup PHP stuff.
-- Use VS Code for PHP & General Text Editing.
+## General Text Editing:
+- Use VS Code for General Text Editing.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
