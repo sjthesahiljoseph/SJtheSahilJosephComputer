@@ -127,7 +127,6 @@ My way of using Computer.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-- Replicate Visual Studio IDE Shortcuts as much as possible.
 
 ## C/C++:
 - Use Visual Studio IDE for C/C++ Development.
