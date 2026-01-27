@@ -132,6 +132,7 @@ My way of using Computer.
 - Use Visual Studio IDE for C/C++ Development.
 
 ## Jave / JavaScript / TypeScript / General Text Editing:
+- Download and Install Java, NodeJs, etc...
 - Use VS Code for Java / JavaScript / TypeScript / General Text Editing.
 
 ## Software Dev Tools:
