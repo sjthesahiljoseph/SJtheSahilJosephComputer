@@ -128,42 +128,15 @@ My way of using Computer.
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
-## IntelliJIdea:
-- Download and Install IntelliJIdea Free.
-- Sign In using Jetbrains Account.
-- Sync.
-- Disable All AI related Features.
-- Extensions = ().
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
-- Solution Explorer etc Sidebar = Left Side.
-- Theme = Dark Island Default.
-- Indent = Use tabs and 4 size.
-- Word Wrap On.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. For everything.
-- Automatically close "([{...etc.
-- Disable Auto Backup File stuff.
-- Disable Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\projects.
-- File Tabs in one line by recent sequence.
-- Use Debugger as much as possible.
-- Disable Code Half Screen Preview stuff. (sticky scroll).
-- Smooth Scrolling Off.
-- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-
 ## C/C++:
 - Use Visual Studio IDE for C/C++ Development.
 
-## JavaScript TypeScript / General Text Editing:
-- Use VS Code for JavaScript TypeScript / General Text Editing.
+## Jave / JavaScript / TypeScript / General Text Editing:
+- Use VS Code for Java / JavaScript / TypeScript / General Text Editing.
 
-## Java:
-- Use IntelliJIdea for Java.
-
-## Postman:
+## Software Dev Tools:
 - Download and Install Postman Free.
+- Download and Install MySQL Stuff.
 - Use Darkest Mode.
 
 ## Google Workspace:
