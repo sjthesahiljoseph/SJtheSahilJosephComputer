@@ -102,6 +102,7 @@ My way of using Computer.
 - Smooth Scrolling Off.
 - Open Solution Folder in Visual Studio Code as well.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
+- Disable Line Numbers.
 
 ## Software Dev Tools:
 - Download and Install Rust.
