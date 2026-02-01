@@ -13,7 +13,7 @@ My way of using Computer.
 - No Start Ups apps at all other than default.
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
-- Desktop & Lock Screen Wallpaper = Default Blue Light.
+- Desktop & Lock Screen Wallpaper = wallpaper.png/jpg.
 - Windows color = Default Blue.
 - Turn Off Notifications on Lock screen.
 - Lock Screen free from widgets and everything.
