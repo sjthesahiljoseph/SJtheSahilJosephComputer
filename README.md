@@ -78,11 +78,11 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++ Components).
+- Download and Install Visual Studio Community 2026 with (All C/C++/Rust/JavaScript/TypeScript Components).
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (VS Block Jumper).
+- Extensions = (VS Block Jumper, SourceGear Rust, ).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
@@ -103,39 +103,9 @@ My way of using Computer.
 - Open Solution Folder in Visual Studio Code as well.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
-## VS Code:
-- Download and Install VS Code with (All Components).
-- Sign In using GitHub Account.
-- Sync.
-- Disable All AI related Features.
-- Extensions = (Space Block Jumper, Tailwind CSS IntelliSense, LoveIsAnIllusionVSC).
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
-- Solution Explorer etc Sidebar = Left Side.
-- Theme = LoveIsAnIllusionVSC.
-- Indent = Use tabs and 4 size.
-- Word Wrap On.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. For everything.
-- Automatically close "([{...etc.
-- Disable Auto Backup File stuff.
-- Disable Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\projects.
-- File Tabs in one line by recent sequence.
-- Use Debugger as much as possible.
-- Disable Code Half Screen Preview stuff. (sticky scroll).
-- Smooth Scrolling Off.
-- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-
-## C/C++:
-- Use Visual Studio IDE for C/C++ Development.
-
-## Rust / JavaScript / TypeScript / General Text Editing:
-- Download and Install Rust, NodeJs, etc...
-- Use VS Code for Rust / JavaScript / TypeScript / General Text Editing.
-
 ## Software Dev Tools:
+- Download and Install Rust.
+- Download and Install NodeJs.
 - Download and Install Postman Free.
 - Download and Install PostgreSQL Stuff.
 - Use Darkest Mode.
