@@ -100,7 +100,6 @@ My way of using Computer.
 - Use Debugger as much as possible.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
 - Smooth Scrolling Off.
-- Open Solution Folder in Visual Studio Code as well.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 - Disable Line Numbers.
 
