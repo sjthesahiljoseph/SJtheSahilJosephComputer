@@ -108,11 +108,11 @@ My way of using Computer.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper, Java, Debugger for Java, Project Manager for Java, Spring Initializr Java Support, Tailwind CSS IntelliSense, Gradle for Java, Language Support for Java(TM) by Red Hat, Maven for Java, Spring Boot Dashboard, Spring Boot Tools, Test Runner for Java).
+- Extensions = (Space Block Jumper, Tailwind CSS IntelliSense, LoveIsAnIllusionVSC).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer etc Sidebar = Left Side.
-- Theme = Dark Modern Default.
+- Theme = LoveIsAnIllusionVSC.
 - Indent = Use tabs and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
@@ -131,13 +131,13 @@ My way of using Computer.
 ## C/C++:
 - Use Visual Studio IDE for C/C++ Development.
 
-## Jave / JavaScript / TypeScript / General Text Editing:
-- Download and Install Java, NodeJs, etc...
-- Use VS Code for Java / JavaScript / TypeScript / General Text Editing.
+## Rust / JavaScript / TypeScript / General Text Editing:
+- Download and Install Rust, NodeJs, etc...
+- Use VS Code for Rust / JavaScript / TypeScript / General Text Editing.
 
 ## Software Dev Tools:
 - Download and Install Postman Free.
-- Download and Install MySQL Stuff.
+- Download and Install PostgreSQL Stuff.
 - Use Darkest Mode.
 
 ## Google Workspace:
