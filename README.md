@@ -82,7 +82,7 @@ My way of using Computer.
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (VS Block Jumper, SourceGear Rust, ).
+- Extensions = (VS Block Jumper, Rust Analyzer, ).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
