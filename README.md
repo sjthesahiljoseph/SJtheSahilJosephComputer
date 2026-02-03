@@ -59,7 +59,7 @@ My way of using Computer.
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
 - Always Fonts: Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
+- Always Cursor: Block Cursor ([]).
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
@@ -71,7 +71,7 @@ My way of using Computer.
 - Default Windows 10 Terminal Cmd or Powershell.
 - Color for all BG: #071307, FG: #90B080.
 - Font: Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
+- Always Cursor: Block Cursor ([]).
 - Use as many tabs want.
 - But majority of the cases, use IDE's or Text Editor's terminals.
 
@@ -80,13 +80,13 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/Rust Components).
+- Download and Install Visual Studio Community 2026 with (All C/C++/Rust/DesktopDevelopmentWithCC++/GameDevelopmentWithCC++ Components).
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (VS Block Jumper, Rust Analyzer, ).
+- Extensions = (VS Block Jumper, BlockCaret, Rust Analyzer, ).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
+- Always Cursor: Block Cursor ([]).
 - Solution Explorer and Git Change = Left Side.
 - Theme = Dark Default Modern.
 - Indent = Use tabs and 4 size.
@@ -94,7 +94,7 @@ My way of using Computer.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on next line.
 - PascalCase, camelCase for almost everything. For everything.
-- Automatically close "([{...etc.
+- Automatically close "([{<...etc.
 - Disable Auto Backup File stuff.
 - Disable Bracket Pair Colorize.
 - Default Projects folder = C:\Users\sjthe\projects.
@@ -107,9 +107,11 @@ My way of using Computer.
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Visual Studio IDE Settings = sjvisualstudio.vssettings.
-- Add Colors.
+- Don't highlight current line.
+- Add Colors, circulate SJ the Sahil Joseph's Love Is An Illusion colors.
 
 ## SJ the Sahil Joseph's Love Is An Illusion Color Theme.
+- Cursor = "#40ff40"
 - Background = "#0c0c0c"
 - Foreground = "#90b080"
 - Keyword = "#d08f20"
