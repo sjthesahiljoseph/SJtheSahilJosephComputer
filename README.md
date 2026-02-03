@@ -106,7 +106,7 @@ My way of using Computer.
 - Disable Line Numbers.
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
-- 
+- Visual Studio IDE Settings = sjvisualstudio.vssettings.
 
 ## Software Dev Tools:
 - Download and Install Rust.
