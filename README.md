@@ -107,7 +107,22 @@ My way of using Computer.
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Visual Studio IDE Settings = sjvisualstudio.vssettings.
-- Add Colors [All Text Windows] Terminal BG / FG.
+- Add Colors.
+
+## SJ the Sahil Joseph's Love Is An Illusion Color Theme.
+- Background = "#0c0c0c"
+- Foreground = "#90b080"
+- Keyword = "#d08f20"
+- Comment = "#2090f0"
+- String = "#50ff30"
+- Highlight Background = "#0b0b0b"
+- Search Foreground = "#ff44dd"
+- Search Background = "#ddee00"
+- Line Numbers = "#555555"
+- Active Line Number = "#aaaaaa"
+- Active Line = "#1e1e1e"
+- Error = "#bb0000"
+- Warning = "#bbbb00"
 
 ## Software Dev Tools:
 - Download and Install Rust.
