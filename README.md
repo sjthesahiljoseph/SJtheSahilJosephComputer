@@ -19,7 +19,7 @@ My way of using Computer.
 - Lock Screen free from widgets and everything.
 - Taskbar should have almost every everyday use application pin.
 - Desktop should be empty. No Icons at all except default in the settings.
-- Taskbar should contain apps, search bar, task view button, widgets, and always combine icons, and left alignment.
+- Taskbar should contain apps, search bar, task view button, widgets, and never combine icons, and left alignment.
 - Start Menu default doesn't matter.
 - Alt + Tab should work with applications not with their tabs.
 - Rest Defaults.
@@ -104,6 +104,7 @@ My way of using Computer.
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 - Disable Line Numbers.
+- Output Window below, and auto hide.
 
 ## Software Dev Tools:
 - Download and Install Rust.
