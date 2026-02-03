@@ -106,6 +106,7 @@ My way of using Computer.
 - Disable Line Numbers.
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
+- 
 
 ## Software Dev Tools:
 - Download and Install Rust.
