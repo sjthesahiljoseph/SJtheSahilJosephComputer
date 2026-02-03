@@ -23,7 +23,7 @@ My way of using Computer.
 - Start Menu default doesn't matter.
 - Alt + Tab should work with applications not with their tabs.
 - Rest Defaults.
-- UnInstall Microsoft OneDrive.
+- Install Microsoft OneDrive.
 - Other system tray icons = Enable all. No Dropdown stuff.
 
 ## File Explorer:
@@ -49,8 +49,10 @@ My way of using Computer.
 
 ## Backup:
 - Use Google Drive from Browser. And Download / Upload Files as needed.
+- Use OneDrive for Microsoft Windows Internal Backups etc.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
+- Use Google Photos for Photos and Videos.
 - In Google Photos, categorize.
 - All Google Workspace.
 
@@ -78,7 +80,7 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/Rust/ExtensionDevelopment Components).
+- Download and Install Visual Studio Community 2026 with (All C/C++/Rust Components).
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
