@@ -107,6 +107,7 @@ My way of using Computer.
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Visual Studio IDE Settings = sjvisualstudio.vssettings.
+- Add Colors [All Text Windows] Terminal BG / FG.
 
 ## Software Dev Tools:
 - Download and Install Rust.
