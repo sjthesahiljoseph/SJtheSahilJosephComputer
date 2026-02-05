@@ -80,15 +80,15 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/Rust/DesktopDevelopmentWithCC++/GameDevelopmentWithCC++ Components).
+- Download and Install Visual Studio Community 2026 with (All C/C++/C#/NodeJs Components).
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (VS Block Jumper, BlockCaret, Rust Analyzer, ).
+- Extensions = (VS Block Jumper, BlockCaret).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Block Cursor ([]).
 - Solution Explorer and Git Change = Left Side.
-- Theme = Dark Default Modern.
+- Theme = LoveIsAnIllusionVS.
 - Indent = Use tabs and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
@@ -108,7 +108,6 @@ My way of using Computer.
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Visual Studio IDE Settings = sjvisualstudio.vssettings.
 - Don't highlight current line.
-- Add Colors, circulate SJ the Sahil Joseph's Love Is An Illusion colors.
 
 ## SJ the Sahil Joseph's Love Is An Illusion Color Theme.
 - Cursor = "#40ff40"
@@ -127,9 +126,7 @@ My way of using Computer.
 - Warning = "#bbbb00"
 
 ## Software Dev Tools:
-- Download and Install Rust.
-- Download and Install Postman Free.
-- Download and Install PostgreSQL Stuff.
+- Download and Install NodeJs.
 - Use Darkest Mode.
 
 ## Google Workspace:
