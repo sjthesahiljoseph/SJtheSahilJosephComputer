@@ -40,7 +40,7 @@ My way of using Computer.
 - New Tab Page = Empty.
 - Sign In & Sync.
 - Extensions = ("Vimium"). That's it.
-- Show bookmark bar always.
+- Show bookmark bar only on new tab page.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar.
 - Rest Defaults.
