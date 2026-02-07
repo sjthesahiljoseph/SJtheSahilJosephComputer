@@ -110,11 +110,11 @@ My way of using Computer.
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code.
-- Download and Install PHP, Laravel Herd, MySQL Database, Workbench, NodeJs.
+- Download and Install NodeJs.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper, Material Icon Theme, LoveIsAnIllusionVSC, Auto Hide, TabOut, PHP Intelephense, PHP Debug, Laravel, Tailwind CSS IntelliSense).
+- Extensions = (Space Block Jumper, Material Icon Theme, LoveIsAnIllusionVSC, Auto Hide, TabOut, Tailwind CSS IntelliSense).
 - Disable Auto Hide to Auto Hide Sidebar, 0 Delay.
 - Enable TabOut by default.
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
