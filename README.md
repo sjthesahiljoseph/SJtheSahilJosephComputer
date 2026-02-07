@@ -87,7 +87,7 @@ My way of using Computer.
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Block Cursor ([]).
 - Solution Explorer and Git Change = Left Side.
-- Theme = LoveIsAnIllusionVS.
+- Theme = Default Modern Dark.
 - Indent = Use tabs and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
@@ -105,22 +105,20 @@ My way of using Computer.
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Visual Studio IDE Settings = sjvisualstudio.vssettings.
-- Don't highlight current line.
-- Disable Highlight Multiple Things from Settings.
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code.
-- Download and Install NodeJs.
+- Download and Install Rust.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Space Block Jumper, Material Icon Theme, LoveIsAnIllusionVSC, Auto Hide, TabOut, Tailwind CSS IntelliSense).
+- Extensions = (Space Block Jumper, Material Icon Theme, LoveIsAnIllusionVSC, Auto Hide, TabOut, Rust-Analyzer, Dioxus, Tailwind CSS IntelliSense).
 - Disable Auto Hide to Auto Hide Sidebar, 0 Delay.
 - Enable TabOut by default.
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Block Cursor ([]).
 - Solution Explorer and Git Change = Left Side.
-- Theme = LoveIsAnIllusionVSC.
+- Theme = Default Modern Dark.
 - Indent = Use tabs and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
@@ -137,9 +135,6 @@ My way of using Computer.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
-- Visual Studio IDE Settings = sjvisualstudio.vssettings.
-- Don't highlight current line.
-- Disable Highlight Multiple Things in Settings.Json.
 
 ## SJ the Sahil Joseph's Love Is An Illusion Color Theme.
 - Cursor = "#40ff40"
