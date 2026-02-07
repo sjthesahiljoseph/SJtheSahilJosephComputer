@@ -6,7 +6,7 @@ My way of using Computer.
 ## Operating System:
 - Windows 11 Pro x64.
 - Dark Mode Everywhere.
-- Blue Light Theme. Light.
+- Blue Dark Theme. Dark.
 - Off Transparency Effect.
 - Update Windows & Apps.
 - Disable AI 100% from everywhere.
@@ -36,7 +36,7 @@ My way of using Computer.
 ## Google Chrome:
 - Download and Install Google Chrome.
 - Make this default for everything.
-- System Light Theme default.
+- System Dark Theme default.
 - New Tab Page = Empty.
 - Sign In & Sync.
 - Extensions = ("Vimium"). That's it.
