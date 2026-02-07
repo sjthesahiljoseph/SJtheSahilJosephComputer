@@ -19,11 +19,11 @@ My way of using Computer.
 - Lock Screen free from widgets and everything.
 - Taskbar should have almost every everyday use application pin.
 - Desktop should be empty. No Icons at all except default in the settings.
-- Taskbar should contain apps, search bar, task view button, widgets, and never combine icons, and left alignment.
+- Taskbar should contain apps icons, no search bar, no task view button, no widgets, and never combine icons, and left alignment.
 - Start Menu default doesn't matter.
 - Alt + Tab should work with applications not with their tabs.
 - Rest Defaults.
-- Install Microsoft OneDrive.
+- UnInstall Microsoft OneDrive.
 - Other system tray icons = Enable all. No Dropdown stuff.
 
 ## File Explorer:
@@ -49,7 +49,6 @@ My way of using Computer.
 
 ## Backup:
 - Use Google Drive from Browser. And Download / Upload Files as needed.
-- Use OneDrive for Microsoft Windows Internal Backups etc.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
 - Use Google Photos for Photos and Videos.
@@ -59,7 +58,7 @@ My way of using Computer.
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
 - Always Fonts: Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Block Cursor ([]).
+- Always Cursor: Block Cursor ([]). "#40ff40".
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
@@ -71,7 +70,7 @@ My way of using Computer.
 - Default Windows 10 Terminal Cmd or Powershell.
 - Color for all BG: #071307, FG: #90B080.
 - Font: Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Block Cursor ([]).
+- Always Cursor: Block Cursor ([]). "#40ff40".
 - Use as many tabs want.
 - But majority of the cases, use IDE's or Text Editor's terminals.
 
@@ -80,7 +79,7 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/C#/NodeJs Components).
+- Download and Install Visual Studio Community 2026 with (All C/C++ (Desktop Development with C/C++, Game Development with C/C++) Components).
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
@@ -103,11 +102,44 @@ My way of using Computer.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-- Disable Line Numbers.
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Visual Studio IDE Settings = sjvisualstudio.vssettings.
 - Don't highlight current line.
+- Disable Highlight Multiple Things from Settings.
+
+## Visual Studio Code:
+- Download and Install Visual Studio Code.
+- Download and Install PHP, Laravel Herd, MySQL Database, Workbench, NodeJs.
+- Sign In using GitHub Account.
+- Sync.
+- Disable All AI related Features.
+- Extensions = (Space Block Jumper, Material Icon Theme, LoveIsAnIllusionVSC, Auto Hide, TabOut, PHP Intelephense, PHP Debug, Laravel, Tailwind CSS IntelliSense).
+- Disable Auto Hide to Auto Hide Sidebar, 0 Delay.
+- Enable TabOut by default.
+- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Always Cursor: Block Cursor ([]).
+- Solution Explorer and Git Change = Left Side.
+- Theme = LoveIsAnIllusionVSC.
+- Indent = Use tabs and 4 size.
+- Word Wrap On.
+- Multiple Row Tab Off & Don't do anything with scroll wheel.
+- All formatting = Braces on next line.
+- PascalCase, camelCase for almost everything. For everything.
+- Automatically close "([{<...etc.
+- Disable Auto Backup File stuff.
+- Disable Bracket Pair Colorize.
+- Default Projects folder = C:\Users\sjthe\projects.
+- File Tabs in one line by recent sequence.
+- Use Debugger as much as possible.
+- Disable Code Half Screen Preview stuff. (sticky scroll).
+- Smooth Scrolling Off.
+- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
+- Output Window below, and auto hide.
+- Keep Powershell Terminal Open as well below, and auto hide.
+- Visual Studio IDE Settings = sjvisualstudio.vssettings.
+- Don't highlight current line.
+- Disable Highlight Multiple Things in Settings.Json.
 
 ## SJ the Sahil Joseph's Love Is An Illusion Color Theme.
 - Cursor = "#40ff40"
@@ -124,10 +156,6 @@ My way of using Computer.
 - Active Line = "#1e1e1e"
 - Error = "#bb0000"
 - Warning = "#bbbb00"
-
-## Software Dev Tools:
-- Download and Install NodeJs.
-- Use Darkest Mode.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
@@ -178,8 +206,13 @@ My way of using Computer.
 ## SJ Mobile:
 - Always Dark Mode.
 - Desktop & Lock Screen Wallpaper = wallpaper.png/jpg.
-- Ringtone ringtone.mp3.
-- Notification notification.mp3.
+- Ringtone = ringtone.mp3.
+- Notification = notification.mp3.
+- Password + Finger Print Lock.
+- Empty Home Screen, only one home screen and a clock widget only.
+- Pin useful apps shortcuts there.
+- Ring Attached to natural Middle Finger Hold Position.
+- Keep Wired Handfree in the pocket.
 - Use mobile as less as possible for very limited use case but install and setup almost everything.
 
 
