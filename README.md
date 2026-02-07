@@ -79,12 +79,12 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/Rust (Desktop Development with C/C++, Game Development with C/C++, Rust Via Extensions) Components).
-- Download and Install Rust.
+- Download and Install Visual Studio Community 2026 with (All C/C++/Python (Desktop Development with C/C++, Game Development with C/C++, Python Stuff) Components).
+- Download and Install Python.
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (VS Block Jumper, BlockCaret, Rust Analyzer).
+- Extensions = (VS Block Jumper, BlockCaret).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Block Cursor ([]).
 - Solution Explorer and Git Change = Left Side.
