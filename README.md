@@ -79,11 +79,12 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++ (Desktop Development with C/C++, Game Development with C/C++) Components).
+- Download and Install Visual Studio Community 2026 with (All C/C++/Rust (Desktop Development with C/C++, Game Development with C/C++, Rust Via Extensions) Components).
+- Download and Install Rust.
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (VS Block Jumper, BlockCaret).
+- Extensions = (VS Block Jumper, BlockCaret, Rust Analyzer).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Block Cursor ([]).
 - Solution Explorer and Git Change = Left Side.
@@ -105,36 +106,6 @@ My way of using Computer.
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Visual Studio IDE Settings = sjvisualstudio.vssettings.
-
-## Visual Studio Code:
-- Download and Install Visual Studio Code.
-- Download and Install Rust.
-- Sign In using GitHub Account.
-- Sync.
-- Disable All AI related Features.
-- Extensions = (Space Block Jumper, Material Icon Theme, LoveIsAnIllusionVSC, Auto Hide, TabOut, Rust-Analyzer, Dioxus, Tailwind CSS IntelliSense).
-- Disable Auto Hide to Auto Hide Sidebar, 0 Delay.
-- Enable TabOut by default.
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Block Cursor ([]).
-- Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Dark.
-- Indent = Use tabs and 4 size.
-- Word Wrap On.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. For everything.
-- Automatically close "([{<...etc.
-- Disable Auto Backup File stuff.
-- Disable Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\projects.
-- File Tabs in one line by recent sequence.
-- Use Debugger as much as possible.
-- Disable Code Half Screen Preview stuff. (sticky scroll).
-- Smooth Scrolling Off.
-- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-- Output Window below, and auto hide.
-- Keep Powershell Terminal Open as well below, and auto hide.
 
 ## SJ the Sahil Joseph's Love Is An Illusion Color Theme.
 - Cursor = "#40ff40"
