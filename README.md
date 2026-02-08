@@ -79,8 +79,7 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/Python (Desktop Development with C/C++, Game Development with C/C++, Python Stuff) Components).
-- Download and Install Python.
+- Download and Install Visual Studio Community 2026 with (All C/C++ (Desktop Development with C/C++, Game Development with C/C++) Components).
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
