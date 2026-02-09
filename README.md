@@ -58,7 +58,7 @@ My way of using Computer.
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
 - Always Fonts: Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Block Cursor ([]). "#40ff40".
+- Always Cursor: Line Cursor (|). "#40ff40".
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
@@ -70,7 +70,7 @@ My way of using Computer.
 - Default Windows 10 Terminal Cmd or Powershell.
 - Color for all BG: #071307, FG: #90B080.
 - Font: Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Block Cursor ([]). "#40ff40".
+- Always Cursor: Line Cursor (|). "#40ff40".
 - Use as many tabs want.
 - But majority of the cases, use IDE's or Text Editor's terminals.
 
@@ -79,13 +79,14 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++ (Desktop Development with C/C++, Game Development with C/C++) Components).
+- Download and Install Visual Studio Community 2026 with (All C/C++/Python (Desktop Development with C/C++, Game Development with C/C++, Python Development) Components).
+- Download and Install Python Stuff.
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (VS Block Jumper, BlockCaret).
+- Extensions = (VS Block Jumper).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Block Cursor ([]).
+- Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
 - Theme = Default Modern Dark.
 - Indent = Use tabs and 4 size.
