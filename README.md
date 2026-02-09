@@ -68,7 +68,7 @@ My way of using Computer.
 
 ## Terminal:
 - Default Windows 10 Terminal Cmd or Powershell.
-- Color for all BG: #071307, FG: #90B080.
+- Color for all BG: #071307, FG: #90B080, Selection BG: #000080, Selection FG: #ffffff.
 - Font: Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|). "#40ff40".
 - Use as many tabs want.
