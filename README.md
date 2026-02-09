@@ -88,7 +88,7 @@ My way of using Computer.
 - Always Cursor: Block Cursor ([]).
 - Solution Explorer and Git Change = Left Side.
 - Theme = Default Modern Dark.
-- Indent = Use spaces and 4 size.
+- Indent = Use tabs and 4 size.
 - Word Wrap On.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - All formatting = Braces on next line.
