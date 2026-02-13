@@ -23,7 +23,7 @@ My way of using Computer.
 - Start Menu default doesn't matter.
 - Alt + Tab should work with applications not with their tabs.
 - Rest Defaults.
-- UnInstall Microsoft OneDrive.
+- Setup Microsoft OneDrive.
 - Other system tray icons = Enable all. No Dropdown stuff.
 
 ## File Explorer:
@@ -48,12 +48,9 @@ My way of using Computer.
 - Show search recommendations or suggestions.
 
 ## Backup:
-- Use Google Drive from Browser. And Download / Upload Files as needed.
+- Use OneDrive as primary cloud storage.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
-- Use Google Photos for Photos and Videos.
-- In Google Photos, categorize.
-- All Google Workspace.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
@@ -79,8 +76,7 @@ My way of using Computer.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/Python (Desktop Development with C/C++, Game Development with C/C++, Python Development) Components).
-- Download and Install Python Stuff.
+- Download and Install Visual Studio Community 2026 with (All C/C++/C# (Game, Desktop, Web, all).
 - Sign In using Microsoft Account.
 - Sync.
 - Disable All AI related Features.
@@ -123,8 +119,10 @@ My way of using Computer.
 - Error = "#bb0000"
 - Warning = "#bbbb00"
 
-## Google Workspace:
-- Use Google Workspace from Browser.
+## Microsoft 360:
+- Use Microsoft 360 for almsot everything related to that.
+- Download and Install Microsoft 360.
+- Excel, Word, PowerPoint, Access, etc... all.
 
 ## Adobe:
 - Download and Install Photoshop Latest. Use Darkest Theme.
@@ -141,18 +139,25 @@ My way of using Computer.
 - Download and Install Unreal Engine.
 - Use Darkest Theme.
 
+## Unity Engine:
+- Download and Install Unity Engine.
+- Use Darkest Theme.
+
 ## OBS:
 - Camera 1920 x 1080 bottom/top left/right/top/bottom. (Width = 500px, Height = Ratio Calculation) - Taskbar (under).
+- Use Darkest Theme.
+
+## Reaper:
+- Download and Install Reaper.
 - Use Darkest Theme.
 
 ## 7zip:
 - Download and Install 7zip.
 
-## Windows Apps:
-- WhatsApp
-    - Download and Install from Microsoft Store.
-    - Disable Notifications when app is closed.
-    - And only show taskbar dots even when app is opened.
+## WhatsApp
+- Download and Install from Microsoft Store.
+- Disable Notifications when app is closed.
+- And only show taskbar dots even when app is opened.
 
 ## Mail Client:
 - GMail:
@@ -163,7 +168,6 @@ My way of using Computer.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
 - Google Keep Notes = From Mobile & Browser.
-- Google Workspace = From  Mobile & Browser.
 
 ## Music:
 - YouTube, YouTube Music, Local Download.
